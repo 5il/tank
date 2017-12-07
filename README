@@ -1,0 +1,30 @@
+tank
+[tangk]
+
+noun
+1. Device used for busting down the door real quick like.
+   "Tank beats banshee. Tank beats everything!"
+
+2. An armoured, self-propelled combat vehicle, armed with cannon and
+   machine guns and moving on a caterpillar tread
+
+
+<RealTalk>
+  Use this at the beginning of an internal assessment when you don't
+  care about being stealthy.
+
+  Runs nmap on a handful of common ports and then does some further
+  recon using various tools that are either included in here or installed
+  with the setup script.
+</RealTalk>
+
+<HowTo>
+  1. Include all of the IPs you want to test in files with a ".ips" extension
+  2. Run tank.sh
+  3. Grab a drink
+</HowTo>
+
+<Install>
+  1. Put on your safty goggles
+  2. Run setup.sh
+</Install>
