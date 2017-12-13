@@ -15,6 +15,8 @@ else
   exclude_range=""
 fi
 
+mkdir reports
+
 c="1"
 for ip_range in $(cat *.ips | sed "s/ *//g"); do
  echo "[*] Scanning $ip_range"
